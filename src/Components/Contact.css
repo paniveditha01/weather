@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(180deg,white 0%,white 100%);
+}    
+.contact-container{
+    width:20%;
+    margin:20px auto;
+    color: black;
+
+    
+}
+.sbutton{
+    background: #1c00b5;
+    width: 100px;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 35px;
+    margin-top: 20px;
+}
